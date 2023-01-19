@@ -15,7 +15,7 @@ export default function page1() {
 				<h2>My hobby 2</h2>
 
 				<p>I like exercise these days.</p>
-				<p>I like volleyball and soccer. let's do it together!!</p>
+				<p>I like volleyball and soccer. lets do it together!!</p>
 			</div>
 
 			<div className={styles.footer}>
