@@ -3,7 +3,7 @@ import styles from 'styles/page2.module.css'
 export default function page2() {
         return (
 <div className={styles.contents}>
-    <h1>My Layout</h1>
+    <h1>Must list</h1>
     <div className={styles.grid_column}>
         <div className={styles.box}>
             <h2>Box 1</h2>
